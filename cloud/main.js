@@ -2,7 +2,7 @@
 
 var Parse = require('parse-cloud-express').Parse;
 
-
+/*
 Parse.Cloud.define("hello", function(request, response) {
   console.log('Ran cloud function.');
   // As with Parse-hosted Cloud Code, the user is available at: request.user
@@ -31,4 +31,5 @@ Parse.Cloud.beforeDelete('TestObject', function(request, response) {
 Parse.Cloud.afterDelete('TestObject', function(request, response) {
   console.log('Ran afterDelete on objectId: ' + request.object.id);
 });
+*/
 
