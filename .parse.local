@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "TemperatureConverter": {
+      "parseAppId": "o683xP1KLkOl3PUdEblEn3nUzirm20LqfnnMOrau",
+      "herokuAppId": "a641d8f8-ad84-498c-8639-7d93e48d3191"
+    },
+    "_default": {
+      "link": "TemperatureConverter"
+    }
+  }
+}
